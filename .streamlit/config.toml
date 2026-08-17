@@ -1,0 +1,50 @@
+[theme]
+base = "dark"
+primaryColor = "#2563EB"
+backgroundColor = "#0B0F19"
+secondaryBackgroundColor = "#131B2E"
+textColor = "#F8FAFC"
+font = "sans-serif"
+baseRadius = "0.5rem"
+buttonRadius = "0.5rem"
+borderColor = "#1E293B"
+dataframeBorderColor = "#1E293B"
+dataframeHeaderBackgroundColor = "#131B2E"
+showWidgetBorder = true
+showSidebarBorder = true
+
+chartCategoricalColors = [
+    "#2563EB",
+    "#38BDF8",
+    "#10B981",
+    "#F59E0B",
+    "#EC4899",
+    "#8B5CF6",
+    "#64748B"
+]
+
+chartSequentialColors = [
+    "#0B0F19",
+    "#131B2E",
+    "#1E293B",
+    "#334155",
+    "#475569",
+    "#1D4ED8",
+    "#2563EB",
+    "#3B82F6",
+    "#60A5FA",
+    "#93C5FD"
+]
+
+chartDivergingColors = [
+    "#EF4444",
+    "#F87171",
+    "#FCA5A5",
+    "#FDE8E8",
+    "#E2E8F0",
+    "#DBEAFE",
+    "#93C5FD",
+    "#60A5FA",
+    "#3B82F6",
+    "#2563EB"
+]
